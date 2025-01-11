@@ -1,0 +1,28 @@
+
+main {
+    background-color: #282D35;
+    flex: 1;
+    padding: 60px 30px;
+    color: white;
+}
+
+main > h1 {
+    margin: 0;
+    font-size: 39px;
+}
+
+.contentList {
+    margin-top: 46px;
+    max-width: 400px;
+}
+
+.contentList > li {
+    padding-block: 10px;
+    line-height: 19px;
+}
+
+.contentList > li::marker {
+    color: #61DAFB;
+    font-size: 20px;
+}
+

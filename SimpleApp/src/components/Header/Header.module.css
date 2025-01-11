@@ -1,0 +1,25 @@
+
+header {
+    height: 90px;
+    background-color: #21222A;
+    /*padding: 30px 25px;*/
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+nav > img {
+    width: 40px;
+    margin-left: 10px;
+}
+
+
+nav > span {
+    margin-left: 7px;
+    font-size: 22px;
+    color: #61DAFB;
+    font-weight: 700;
+}
