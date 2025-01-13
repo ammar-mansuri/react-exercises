@@ -1,0 +1,8 @@
+
+.mainGridContainer {
+    display: grid;
+    row-gap: 20px;
+    grid-template-rows: repeat(auto-fill, 168px);
+    width: 470px;
+    margin: 45px 40px;
+}
