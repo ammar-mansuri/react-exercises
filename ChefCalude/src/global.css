@@ -1,0 +1,16 @@
+html, body, #root {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+body {
+    margin: 5px;
+    /*border-style: solid;*/
+    /*border-radius: 20px;*/
+}
+
+#root {
+    display: flex;
+    flex-direction: column;
+}
